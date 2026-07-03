@@ -1,6 +1,6 @@
-# GEN-TC-001 — Landing Page Display
+# GEN-LNDP-001 — Landing Page Display
 
-**Test Case ID:** GEN-TC-001  
+**Test Case ID:** GEN-LNDP-001  
 **Module:** General  
 **Page:** Landing Page (Home)  
 **Summary:** Verify that the landing page loads correctly and all sections are visible to unauthenticated users.  
@@ -19,7 +19,7 @@
 
 ## Test Steps
 
-### Scenario 1: GEN-TC-001 — Landing Page Display
+### Scenario 1: GEN-LNDP-001 — Landing Page Display
 
 | # | Step | Expected Behavior |
 |---|------|-------------------|

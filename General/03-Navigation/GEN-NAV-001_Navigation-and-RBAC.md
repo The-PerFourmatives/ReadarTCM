@@ -1,6 +1,6 @@
-# GEN-TC-005 — Navigation & Role-Based Access Control
+# GEN-NAV-001 — Navigation & Role-Based Access Control
 
-**Test Case ID:** GEN-TC-005  
+**Test Case ID:** GEN-NAV-001  
 **Module:** General  
 **Page:** All Pages  
 **Summary:** Verify that unauthenticated users and users with incorrect roles cannot access protected routes.  
@@ -19,7 +19,7 @@
 
 ## Test Steps
 
-### Scenario 1: GEN-TC-005 — Navigation & Role-Based Access Control
+### Scenario 1: GEN-NAV-001 — Navigation & Role-Based Access Control
 
 | # | Step | Expected Behavior |
 |---|------|-------------------|

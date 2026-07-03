@@ -1,6 +1,6 @@
-# GEN-TC-009 — In-App Notifications (Dropdown Interactions and Polling)
+# GEN-NOTIF-004 — In-App Notifications (Dropdown Interactions and Polling)
 
-**Test Case ID:** GEN-TC-009  
+**Test Case ID:** GEN-NOTIF-004  
 **Module:** General — Notifications  
 **Page:** Notification Dropdown in User Header and Admin Header  
 **Summary:** Verify that the notification dropdown correctly handles interactions like mark-as-read, mark-all-as-read, count updates, state persistence, and background real-time updates via polling.  

@@ -1,6 +1,6 @@
-# GEN-TC-008 — In-App Notifications (Waitlist Availability)
+# GEN-NOTIF-003 — In-App Notifications (Waitlist Availability)
 
-**Test Case ID:** GEN-TC-008  
+**Test Case ID:** GEN-NOTIF-003  
 **Module:** General — Notifications  
 **Page:** Notification Dropdown in User Header  
 **Summary:** Verify that the system generates and routes an in-app notification when a book the user placed on hold (waitlisted) becomes available.  

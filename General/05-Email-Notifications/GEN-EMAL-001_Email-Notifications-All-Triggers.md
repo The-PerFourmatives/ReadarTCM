@@ -1,6 +1,6 @@
-# GEN-TC-010 — Email Notifications (All Triggers)
+# GEN-EMAL-001 — Email Notifications (All Triggers)
 
-**Test Case ID:** GEN-TC-010  
+**Test Case ID:** GEN-EMAL-001  
 **Module:** General — Email Notifications  
 **Page:** Triggered automatically by system events and the background service  
 **Summary:** Verify that the system sends correctly formatted HTML email notifications to users for all applicable triggers: upcoming due date, overdue book alert, and reservation ready for pickup.  

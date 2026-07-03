@@ -1,6 +1,6 @@
-# GEN-TC-004 — Forgot Password
+# GEN-AUTH-003 — Forgot Password
 
-**Test Case ID:** GEN-TC-004  
+**Test Case ID:** GEN-AUTH-003  
 **Module:** General  
 **Page:** Forgot Password (`/Account/ForgotPassword`)  
 **Summary:** Verify that a user can request a password reset link via email and successfully reset their password.  
@@ -19,7 +19,7 @@
 
 ## Test Steps
 
-### Scenario 1: GEN-TC-004 — Forgot Password
+### Scenario 1: GEN-AUTH-003 — Forgot Password
 
 | # | Step | Expected Behavior |
 |---|------|-------------------|

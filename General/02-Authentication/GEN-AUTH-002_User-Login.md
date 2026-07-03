@@ -1,6 +1,6 @@
-# GEN-TC-003 — User Login
+# GEN-AUTH-002 — User Login
 
-**Test Case ID:** GEN-TC-003  
+**Test Case ID:** GEN-AUTH-002  
 **Module:** General — Authentication  
 **Page:** Login Page (`/Account/Login`)  
 **Summary:** Verify that a registered user can log in with valid credentials, is denied access with invalid credentials, and that the "Remember me" functionality persists sessions correctly.  

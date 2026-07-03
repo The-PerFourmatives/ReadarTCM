@@ -1,6 +1,6 @@
-# GEN-TC-002 — User Registration
+# GEN-AUTH-001 — User Registration
 
-**Test Case ID:** GEN-TC-002  
+**Test Case ID:** GEN-AUTH-001  
 **Module:** General  
 **Page:** Register Page (`/Account/Register`)  
 **Summary:** Verify that a new user can successfully create an account using valid information.  
@@ -19,7 +19,7 @@
 
 ## Test Steps
 
-### Scenario 1: GEN-TC-002 — User Registration
+### Scenario 1: GEN-AUTH-001 — User Registration
 
 | # | Step | Expected Behavior |
 |---|------|-------------------|

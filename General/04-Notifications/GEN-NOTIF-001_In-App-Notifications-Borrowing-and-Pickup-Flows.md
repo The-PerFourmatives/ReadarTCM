@@ -1,6 +1,6 @@
-# GEN-TC-006 — In-App Notifications (Borrowing and Pickup Flows)
+# GEN-NOTIF-001 — In-App Notifications (Borrowing and Pickup Flows)
 
-**Test Case ID:** GEN-TC-006  
+**Test Case ID:** GEN-NOTIF-001  
 **Module:** General — Notifications  
 **Page:** Notification Dropdown in User Header and Admin Header  
 **Summary:** Verify that the system generates and routes correct in-app notifications for borrowing requests, approvals, denials, and cancellations, and that clicking them redirects to the correct pages.  

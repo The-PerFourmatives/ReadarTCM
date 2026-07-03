@@ -1,6 +1,6 @@
-# GEN-TC-007 — In-App Notifications (Due Date and Overdue Alerts)
+# GEN-NOTIF-002 — In-App Notifications (Due Date and Overdue Alerts)
 
-**Test Case ID:** GEN-TC-007  
+**Test Case ID:** GEN-NOTIF-002  
 **Module:** General — Notifications  
 **Page:** Notification Dropdown in User Header  
 **Summary:** Verify that the system generates and routes correct in-app notifications to warn the user of an upcoming due date or alert them when a book becomes overdue.  
