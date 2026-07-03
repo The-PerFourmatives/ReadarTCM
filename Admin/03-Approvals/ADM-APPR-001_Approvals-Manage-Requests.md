@@ -19,18 +19,26 @@
 
 ## Test Steps
 
-### Scenario 1: ADM-APPR-001 — Approvals — View and Manage Loan Requests
+### Scenario 1: ADM-APPR-001 — Approvals Search and Pagination
 
 | # | Step | Expected Behavior |
 |---|------|-------------------|
 | 1 | Navigate to the Approvals page. | Verify that the page loads and displays a list of pending approval requests. |
 | 2 | Observe the approval request list columns. | Verify that each entry shows relevant information (e.g., User Name, Book Title, Request Date, Status). |
 | 3 | Search or filter the approvals list (if controls are present). | Verify that the list filters correctly based on the search or filter input. |
-| 4 | Click the "Approve" action for a pending request. | Verify that a confirmation prompt or immediate action is triggered, and upon confirmation, the request status changes to Approved. |
-| 5 | Verify the approved request. | Verify that the approved request is no longer listed under "Pending" and moves to an Approved or Active state. |
-| 6 | Click the "Deny" action for a pending request. | Verify that the request status changes to Denied. |
-| 7 | On the same page from step 6, observe the denial request. | Verify that the user's reservation status reflects the admin's approval or denial decision. |
-| 8 | Check that the user received a notification regarding the approval/rejection. | Verify that a notification appears in the user's notification list. |
+| 4 | Observe pagination controls (if there are more than 10 requests). | Verify that pagination functions and navigating to page 2 displays the next set of requests. |
+
+---
+
+### Scenario 2: ADM-APPR-001 — Process Loan Requests (Approve/Deny)
+
+| # | Step | Expected Behavior |
+|---|------|-------------------|
+| 1 | Locate a pending approval request. | Verify that the "Approve" and "Deny" actions are visible. |
+| 2 | Click the "Approve" action for a pending request. | Verify that a confirmation prompt or action is triggered, and the request status changes to Approved. |
+| 3 | Verify the approved request. | Verify that the approved request is no longer listed under "Pending" and moves to an Approved or Active state. |
+| 4 | Click the "Deny" action for another pending request. | Verify that the request status changes to Denied. |
+| 5 | Verify the denial on the user side. | Verify that the user's reservation status reflects the admin's approval or denial decision, and they receive a corresponding notification. |
 
 ---
 
