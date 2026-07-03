@@ -1,6 +1,6 @@
-# ADM-TC-004 — Book Management — Edit Book (Modal)
+# ADM-BOOK-003 — Book Management — Edit Book (Modal)
 
-**Test Case ID:** ADM-TC-004  
+**Test Case ID:** ADM-BOOK-003  
 **Module:** Admin  
 **Page:** Book Management Index (`/Admin/BookManagement` via Edit Modal)  
 **Summary:** Verify that an admin can successfully update an existing book's information using the Edit Book modal, that validation is enforced, and that decreasing copies respects active loans/reservations while allowing historical cleanups.  

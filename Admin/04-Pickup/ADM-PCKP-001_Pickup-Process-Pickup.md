@@ -1,6 +1,6 @@
-# ADM-TC-007 — Pickup — Process Book Pickup
+# ADM-PCKP-001 — Pickup — Process Book Pickup
 
-**Test Case ID:** ADM-TC-007  
+**Test Case ID:** ADM-PCKP-001  
 **Module:** Admin  
 **Page:** Pickup (`/Admin/Pickup`)  
 **Summary:** Verify that an admin can view approved loan requests ready for pickup and mark them as picked up.  
@@ -19,7 +19,7 @@
 
 ## Test Steps
 
-### Scenario 1: ADM-TC-007 — Pickup — Process Book Pickup
+### Scenario 1: ADM-PCKP-001 — Pickup — Process Book Pickup
 
 | # | Step | Expected Behavior |
 |---|------|-------------------|

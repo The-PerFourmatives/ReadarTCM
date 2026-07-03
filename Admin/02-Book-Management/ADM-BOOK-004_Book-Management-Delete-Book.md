@@ -1,6 +1,6 @@
-# ADM-TC-005 — Book Management — Delete Book (Modal)
+# ADM-BOOK-004 — Book Management — Delete Book (Modal)
 
-**Test Case ID:** ADM-TC-005  
+**Test Case ID:** ADM-BOOK-004  
 **Module:** Admin  
 **Page:** Book Management Index (`/Admin/BookManagement` via Delete Confirmation Modal)  
 **Summary:** Verify that an admin can successfully delete a book from the catalog using the delete confirmation modal if it has no active loans or reservations (even if it has historical loan records), and that the system blocks deletion if any copies are currently borrowed or reserved.  

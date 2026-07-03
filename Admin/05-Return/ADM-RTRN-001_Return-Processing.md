@@ -1,6 +1,6 @@
-# ADM-TC-008 — Return Processing
+# ADM-RTRN-001 — Return Processing
 
-**Test Case ID:** ADM-TC-008  
+**Test Case ID:** ADM-RTRN-001  
 **Module:** Admin  
 **Page:** Return (`/Admin/Return`)  
 **Summary:** Verify that an admin can view all active loans, search and filter them, and successfully process a standard (non-overdue) book return.  

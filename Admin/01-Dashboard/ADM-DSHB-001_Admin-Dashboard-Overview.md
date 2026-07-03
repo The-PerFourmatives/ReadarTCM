@@ -1,6 +1,6 @@
-# ADM-TC-001 — Admin Dashboard Overview
+# ADM-DSHB-001 — Admin Dashboard Overview
 
-**Test Case ID:** ADM-TC-001  
+**Test Case ID:** ADM-DSHB-001  
 **Module:** Admin  
 **Page:** Admin Dashboard (`/Admin/Dashboard`)  
 **Summary:** Verify that the Admin Dashboard loads correctly and displays accurate system-wide statistics and recent activity.  
@@ -19,7 +19,7 @@
 
 ## Test Steps
 
-### Scenario 1: ADM-TC-001 — Admin Dashboard Overview
+### Scenario 1: ADM-DSHB-001 — Admin Dashboard Overview
 
 | # | Step | Expected Behavior |
 |---|------|-------------------|

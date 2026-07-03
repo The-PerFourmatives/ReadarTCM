@@ -1,6 +1,6 @@
-# ADM-TC-010 — Fine Management — View and Manage User Fines
+# ADM-FINE-001 — Fine Management — View and Manage User Fines
 
-**Test Case ID:** ADM-TC-010  
+**Test Case ID:** ADM-FINE-001  
 **Module:** Admin — Fine Management  
 **Page:** Fine Management Index (`/Admin/FineManagement/Index`) and User Fines Details (`/Admin/FineManagement/UserFinesDetails`)  
 **Summary:** Verify that an admin can view the list of users with outstanding fines, check their fine audits/details, and perform fine-clearing actions (mark as paid, waive, reject waive request) individually or in bulk.  

@@ -1,6 +1,6 @@
-# ADM-TC-009 — Overdue Return Processing (Fines and Redirects)
+# ADM-RTRN-002 — Overdue Return Processing (Fines and Redirects)
 
-**Test Case ID:** ADM-TC-009  
+**Test Case ID:** ADM-RTRN-002  
 **Module:** Admin  
 **Page:** Return (`/Admin/Return` redirecting to `/Admin/FineManagement/UserFinesDetails`)  
 **Summary:** Verify that processing a return for an overdue book successfully records the return, automatically generates the correct fine, and redirects the administrator to the user's fine details page to resolve the fines.  

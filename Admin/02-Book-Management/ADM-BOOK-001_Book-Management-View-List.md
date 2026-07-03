@@ -1,6 +1,6 @@
-# ADM-TC-002 — Book Management — View Book List
+# ADM-BOOK-001 — Book Management — View Book List
 
-**Test Case ID:** ADM-TC-002  
+**Test Case ID:** ADM-BOOK-001  
 **Module:** Admin  
 **Page:** Book Management — Index (`/Admin/BookManagement`)  
 **Summary:** Verify that the admin can view, search, and filter the complete list of books in the system.  
@@ -19,7 +19,7 @@
 
 ## Test Steps
 
-### Scenario 1: ADM-TC-002 — Book Management — View Book List
+### Scenario 1: ADM-BOOK-001 — Book Management — View Book List
 
 | # | Step | Expected Behavior |
 |---|------|-------------------|

@@ -1,6 +1,6 @@
-# ADM-TC-003 — Book Management — Create Book (Modal)
+# ADM-BOOK-002 — Book Management — Create Book (Modal)
 
-**Test Case ID:** ADM-TC-003  
+**Test Case ID:** ADM-BOOK-002  
 **Module:** Admin  
 **Page:** Book Management Index (`/Admin/BookManagement` via Create Modal)  
 **Summary:** Verify that an admin can successfully add a new book to the library catalog using the Create Book modal, and that validation prevents invalid submissions.  
@@ -19,7 +19,7 @@
 
 ## Test Steps
 
-### Scenario 1: ADM-TC-003 — Book Management — Create Book
+### Scenario 1: ADM-BOOK-002 — Book Management — Create Book
 
 | # | Step | Expected Behavior |
 |---|------|-------------------|

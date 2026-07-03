@@ -1,6 +1,6 @@
-# ADM-TC-006 — Approvals — View and Manage Loan Requests
+# ADM-APPR-001 — Approvals — View and Manage Loan Requests
 
-**Test Case ID:** ADM-TC-006  
+**Test Case ID:** ADM-APPR-001  
 **Module:** Admin  
 **Page:** Approvals (`/Admin/Approvals`)  
 **Summary:** Verify that an admin can view pending loan/reservation approval requests and approve or reject them.  
@@ -19,7 +19,7 @@
 
 ## Test Steps
 
-### Scenario 1: ADM-TC-006 — Approvals — View and Manage Loan Requests
+### Scenario 1: ADM-APPR-001 — Approvals — View and Manage Loan Requests
 
 | # | Step | Expected Behavior |
 |---|------|-------------------|
