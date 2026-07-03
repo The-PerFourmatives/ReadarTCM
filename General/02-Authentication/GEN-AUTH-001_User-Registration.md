@@ -19,17 +19,25 @@
 
 ## Test Steps
 
-### Scenario 1: GEN-AUTH-001 — User Registration
+### Scenario 1: GEN-AUTH-001 — Successful Registration
 
 | # | Step | Expected Behavior |
 |---|------|-------------------|
 | 1 | Navigate to the Register page. | Verify that the registration form is displayed with all required fields (Full Name, Email, Password, Confirm Password, etc.). |
+| 2 | Fill in all fields with valid data and click Create Account. | Verify that the form submits successfully and the user is redirected (e.g., to login or a confirmation page). |
+
+---
+
+### Scenario 2: GEN-AUTH-001 — Registration Validation Errors
+
+| # | Step | Expected Behavior |
+|---|------|-------------------|
+| 1 | Navigate to the Register page. | Verify that the registration form is displayed. |
 | 2 | Leave all fields blank. | Verify that the 'Create Account' button is disabled. |
 | 3 | Enter an invalid email format (e.g., `notanemail`). | Verify that a validation error indicating an invalid email format is shown. |
 | 4 | Enter a password that does not meet complexity requirements. | Verify that a password strength/complexity error message is displayed. |
 | 5 | Enter a password and a non-matching confirm password value. | Verify that an error message is shown stating that passwords do not match. |
-| 6 | Fill in all fields with valid data and click Create Account. | Verify that the form submits successfully and the user is redirected (e.g., to login or a confirmation page). |
-| 7 | Attempt to register again using the same email address. | Verify that an error message is displayed indicating the email is already in use. |
+| 6 | Attempt to register using an email address that is already registered. | Verify that an error message is displayed indicating the email is already in use. |
 
 ---
 
