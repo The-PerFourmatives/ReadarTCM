@@ -5,7 +5,7 @@
 **Page:** Catalog Home Page (`/Home/Index`) and Search Results Page (`/Home/Results`)  
 **Summary:** Verify that users can click book cards in the catalog list to view details, and initiate quick borrow or waitlist queue requests directly from the book cards.  
 **Priority:** High  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
