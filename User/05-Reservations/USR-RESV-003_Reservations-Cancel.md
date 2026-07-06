@@ -1,5 +1,3 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/027b3c00-6da8-432b-8abe-fbbbcf3fae98" /># USR-RESV-003 — Reservations — Cancel a Reservation
-
 **Test Case ID:** USR-RESV-003  
 **Module:** User — Reservations  
 **Page:** Reservations (`/User/Reservation`)  
