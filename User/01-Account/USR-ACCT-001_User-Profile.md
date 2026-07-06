@@ -5,7 +5,7 @@
 **Page:** Profile (`/Account/Profile`)  
 **Summary:** Verify that the logged-in user's profile page displays accurate account information, borrowing statistics, and navigation to edit profile.  
 **Priority:** Medium  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
