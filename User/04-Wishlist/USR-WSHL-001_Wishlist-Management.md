@@ -5,7 +5,7 @@
 **Page:** Wishlist page (`/Wishlist`)  
 **Summary:** Verify that a user can add books to their wishlist from the catalog, view and manage their wishlist items, filter/sort them, reserve available items, and clear the wishlist.  
 **Priority:** High  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
