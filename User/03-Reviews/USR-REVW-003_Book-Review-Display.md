@@ -5,7 +5,7 @@
 **Page:** Book Details Page (`/Books/Details/{id}`)  
 **Summary:** Verify that the book reviews section on the Details page correctly displays all existing reviews, average rating, and handles the empty state when no reviews exist.  
 **Priority:** Medium  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
