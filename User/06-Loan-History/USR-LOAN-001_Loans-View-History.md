@@ -5,7 +5,7 @@
 **Page:** Loans (`/User/Loans`)  
 **Summary:** Verify that the user's Loans page correctly displays their full borrowing history with accurate summary counts, and that filtering, sorting, and pagination work as expected.  
 **Priority:** High  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
