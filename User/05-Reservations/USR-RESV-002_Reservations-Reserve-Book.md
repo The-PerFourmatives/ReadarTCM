@@ -5,7 +5,7 @@
 **Page:** Book Details (`/Books/Details/{id}`) → triggers `POST /Reservation/Reserve`  
 **Summary:** Verify that a user can successfully place a reservation request for an available book, and that the system correctly prevents duplicate or invalid reservation requests.  
 **Priority:** Critical  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
