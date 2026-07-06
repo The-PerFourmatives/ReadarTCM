@@ -5,7 +5,7 @@
 **Page:** Fines (`/Fines`)  
 **Summary:** Verify that the user can view outstanding and past fines, and filter and search their fines list.  
 **Priority:** High  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
