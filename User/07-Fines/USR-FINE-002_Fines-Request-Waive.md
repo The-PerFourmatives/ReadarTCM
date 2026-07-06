@@ -5,7 +5,7 @@
 **Page:** Fines (`/Fines`)  
 **Summary:** Verify that the user can request to waive an unpaid fine with a reason and the fine status updates to pending review (WaiveRequested).  
 **Priority:** High  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
