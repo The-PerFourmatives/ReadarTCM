@@ -5,7 +5,7 @@
 **Page:** Book Details (`/Book/Details/{id}`)  
 **Summary:** Verify that the Book Details page displays accurate information (metadata, cover image, availability), allows users to submit borrow/waitlist requests, add/remove items from the wishlist, and displays ratings/reviews correctly.  
 **Priority:** High  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
