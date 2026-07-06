@@ -5,7 +5,7 @@
 **Page:** Book Details Page (`/Books/Details/{id}`)  
 **Summary:** Verify that a user who has previously borrowed a book can submit a star rating and comment review, and that users who have not borrowed the book cannot.  
 **Priority:** High  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
