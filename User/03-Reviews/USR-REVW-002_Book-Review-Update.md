@@ -5,8 +5,7 @@
 **Page:** Book Details Page (`/Books/Details/{id}`)  
 **Summary:** Verify that a user who has already submitted a review for a book can update (overwrite) their existing review with a new rating and/or comment, and that no duplicate review is created.  
 **Priority:** Medium  
-**Status:** ⬜ Not Run
-
+**Status:** ✅ Pass
 ---
 
 ## Preconditions
