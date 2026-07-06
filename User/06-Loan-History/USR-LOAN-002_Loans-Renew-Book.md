@@ -5,8 +5,7 @@
 **Page:** Loans (`/User/Loans`)  
 **Summary:** Verify that a user can successfully renew an active loan to extend its due date, and that ineligible loans (overdue, already returned) cannot be renewed.  
 **Priority:** High  
-**Status:** ⬜ Not Run
-
+**Status:** ✅ Pass
 ---
 
 ## Preconditions
