@@ -5,7 +5,7 @@
 **Page:** Catalog Home Page (`/Home/Index`) and Search Results Page (`/Home/Results`)  
 **Summary:** Verify that users can browse the complete book catalog, search for books by title, author, category, or ISBN, apply multiple filters (availability, publication date, category), and sort results.  
 **Priority:** High  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
