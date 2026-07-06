@@ -5,8 +5,7 @@
 **Page:** Reservations (`/User/Reservation`)  
 **Summary:** Verify that the user's Reservations page displays their current reservation queue with correct statuses, summary counts, and supports filtering, sorting, and pagination.  
 **Priority:** High  
-**Status:** ⬜ Not Run
-
+**Status:** ✅ Pass
 ---
 
 ## Preconditions
