@@ -5,7 +5,7 @@
 **Page:** Edit Profile (`/Account/EditProfile`)  
 **Summary:** Verify that a user can update their profile information (name, profile picture, etc.) and that changes are correctly saved and reflected.  
 **Priority:** Medium  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
