@@ -5,7 +5,7 @@
 **Page:** Fine Management Index (`/Admin/FineManagement/Index`) and User Fines Details (`/Admin/FineManagement/UserFinesDetails`)  
 **Summary:** Verify that an admin can view the list of users with outstanding fines, check their fine audits/details, and perform fine-clearing actions (mark as paid, waive, reject waive request) individually or in bulk.  
 **Priority:** High  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
