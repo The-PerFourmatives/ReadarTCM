@@ -5,7 +5,7 @@
 **Page:** Approvals (`/Admin/Approvals`)  
 **Summary:** Verify that an admin can view pending loan/reservation approval requests and approve or reject them.  
 **Priority:** Critical  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
