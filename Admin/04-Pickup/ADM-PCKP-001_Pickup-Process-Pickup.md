@@ -5,7 +5,7 @@
 **Page:** Pickup (`/Admin/Pickup`)  
 **Summary:** Verify that an admin can view approved loan requests ready for pickup and mark them as picked up.  
 **Priority:** Critical  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
