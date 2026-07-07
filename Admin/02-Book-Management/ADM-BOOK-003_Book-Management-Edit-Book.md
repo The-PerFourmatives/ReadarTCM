@@ -5,7 +5,7 @@
 **Page:** Book Management Index (`/Admin/BookManagement` via Edit Modal)  
 **Summary:** Verify that an admin can successfully update an existing book's information using the Edit Book modal, that validation is enforced, and that decreasing copies respects active loans/reservations while allowing historical cleanups.  
 **Priority:** High  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
