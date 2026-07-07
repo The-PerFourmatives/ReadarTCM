@@ -5,7 +5,7 @@
 **Page:** Return (`/Admin/Return` redirecting to `/Admin/FineManagement/UserFinesDetails`)  
 **Summary:** Verify that processing a return for an overdue book successfully records the return, automatically generates the correct fine, and redirects the administrator to the user's fine details page to resolve the fines.  
 **Priority:** Critical  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
