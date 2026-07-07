@@ -5,7 +5,7 @@
 **Page:** Admin Dashboard (`/Admin/Dashboard`)  
 **Summary:** Verify that the Admin Dashboard loads correctly and displays accurate system-wide statistics and recent activity.  
 **Priority:** High  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
