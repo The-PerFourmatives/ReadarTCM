@@ -5,7 +5,7 @@
 **Page:** User Fines Details (`/Admin/FineManagement/UserFinesDetails`)  
 **Summary:** Verify that an admin can perform fine-clearing actions (mark as paid, waive, reject waive request) individually or in bulk, ensuring that actions are only performed after the associated books have been returned.  
 **Priority:** High  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
