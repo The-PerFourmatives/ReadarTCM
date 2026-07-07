@@ -5,7 +5,7 @@
 **Page:** Book Management Index (`/Admin/BookManagement` via Create Modal)  
 **Summary:** Verify that an admin can successfully add a new book to the library catalog using the Create Book modal, and that validation prevents invalid submissions.  
 **Priority:** High  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
