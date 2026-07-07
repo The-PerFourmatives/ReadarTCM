@@ -5,7 +5,7 @@
 **Page:** Return (`/Admin/Return`)  
 **Summary:** Verify that an admin can view all active loans, search and filter them, and successfully process a standard (non-overdue) book return.  
 **Priority:** Critical  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
