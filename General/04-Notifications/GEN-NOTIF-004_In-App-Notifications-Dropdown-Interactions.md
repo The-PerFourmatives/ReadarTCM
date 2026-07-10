@@ -5,7 +5,7 @@
 **Page:** Notification Dropdown in User Header and Admin Header  
 **Summary:** Verify that the notification dropdown correctly handles interactions like mark-as-read, mark-all-as-read, count updates, state persistence, and background real-time updates via polling.  
 **Priority:** Medium  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
