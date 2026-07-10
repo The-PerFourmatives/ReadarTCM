@@ -5,7 +5,7 @@
 **Page:** Landing Page (Home)  
 **Summary:** Verify that the landing page loads correctly and all sections are visible to unauthenticated users.  
 **Priority:** High  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
