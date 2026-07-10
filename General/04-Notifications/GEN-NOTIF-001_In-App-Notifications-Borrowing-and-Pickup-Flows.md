@@ -5,7 +5,7 @@
 **Page:** Notification Dropdown in User Header and Admin Header  
 **Summary:** Verify that the system generates and routes correct in-app notifications for borrowing requests, approvals, denials, and cancellations, and that clicking them redirects to the correct pages.  
 **Priority:** High  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
