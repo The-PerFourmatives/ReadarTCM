@@ -5,7 +5,7 @@
 **Page:** Login Page (`/Account/Login`)  
 **Summary:** Verify that a registered user can log in with valid credentials, is denied access with invalid credentials, and that the "Remember me" functionality persists sessions correctly.  
 **Priority:** Critical  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
