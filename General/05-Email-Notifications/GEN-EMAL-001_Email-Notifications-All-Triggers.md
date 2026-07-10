@@ -5,7 +5,7 @@
 **Page:** Triggered automatically by system events and the background service  
 **Summary:** Verify that the system sends correctly formatted HTML email notifications to users for all applicable triggers: upcoming due date, overdue book alert, and reservation ready for pickup.  
 **Priority:** High  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
