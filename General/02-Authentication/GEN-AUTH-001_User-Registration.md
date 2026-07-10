@@ -5,7 +5,7 @@
 **Page:** Register Page (`/Account/Register`)  
 **Summary:** Verify that a new user can successfully create an account using valid information.  
 **Priority:** Critical  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
