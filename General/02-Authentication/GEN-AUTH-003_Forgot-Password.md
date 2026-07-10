@@ -5,7 +5,7 @@
 **Page:** Forgot Password (`/Account/ForgotPassword`)  
 **Summary:** Verify that a user can request a password reset link via email and successfully reset their password.  
 **Priority:** High  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
