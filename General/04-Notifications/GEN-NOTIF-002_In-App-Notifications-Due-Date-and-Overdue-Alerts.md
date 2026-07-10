@@ -5,7 +5,7 @@
 **Page:** Notification Dropdown in User Header  
 **Summary:** Verify that the system generates and routes correct in-app notifications to warn the user of an upcoming due date or alert them when a book becomes overdue.  
 **Priority:** High  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
