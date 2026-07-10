@@ -5,7 +5,7 @@
 **Page:** All Pages  
 **Summary:** Verify that unauthenticated users and users with incorrect roles cannot access protected routes.  
 **Priority:** Critical  
-**Status:** ⬜ Not Run
+**Status:** ✅ Pass
 
 ---
 
